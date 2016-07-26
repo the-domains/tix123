@@ -1,0 +1,14 @@
+layout_spectrum: 0.28891380224376917
+typography_spectrum: 0.06292770593427122
+color:
+  brandStrength: 0.6577338501811028
+  lightness: 0.8910645381547511
+  saturation: 0.8529411109630018
+  rhythmicContrast: 0.6774539942853153
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: TIX123

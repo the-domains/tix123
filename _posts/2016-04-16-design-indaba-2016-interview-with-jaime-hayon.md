@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T15:47:01.569Z'
+datePublished: '2016-07-26T16:44:23.759Z'
 sourcePath: _posts/2016-04-16-design-indaba-2016-interview-with-jaime-hayon.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,14 +19,10 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-26T15:47:01.029Z'
+dateModified: '2016-07-26T16:44:23.210Z'
 title: ''
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
+publisher: {}
 description: >-
   It's four o'clock in the morning and Jaime Hayon is still going full speed,
   sitting on a couch in Cape Town, candidly telling us about the time he

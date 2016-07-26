@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TIX123]]></title>
         <description><![CDATA[TIX123]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tix123/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 15:10:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 15:47:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tix123/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Design Indaba 2016: Interview With Jaime Hayon]]></title>
-            <description><![CDATA[<article><h1>Design Indaba 2016: Interview With Jaime Hayon</h1><p>It's four o'clock in the morning and Jaime Hayon is still going full speed, sitting on a couch in Cape Town, candidly telling us about the time he tattooed one of the world's top tattoo artists. Had he ever inked somebody before? Nope, and he never did again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f86a6be147d551b27ad334ff404c5fb1ce9b36.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e1d4fca-6e6a-4290-8470-f4900d891553.jpg">]]></description>
             <link>http://www.coolhunting.com/design/interview-designer-jaime-haydon-design-indaba</link>
             <guid isPermaLink="false">5dcce019-a19e-4b5b-b4fb-df8e0fa3ec5a</guid>
-            <pubDate>Tue, 26 Jul 2016 15:10:39 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2016 15:47:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
